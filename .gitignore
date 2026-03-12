@@ -1,0 +1,5 @@
+logs/
+browser_data/
+__pycache__/
+*.pyc
+server_state.json
