@@ -1,10 +1,10 @@
 # Web2API
 
-将 Web 端 AI 模型平台转换为 OpenAI API 格式的代理服务。
+将 Web 端 AI 模型转换为 OpenAI API 格式的代理服务。
 
 ## 项目简介
 
-Web2API 是一个 API 代理服务器，通过 Playwright 浏览器自动化技术与部分 Web 端 AI 模型平台进行交互，将 Web 端响应转换为标准 OpenAI API 格式返回，支持外部应用以 OpenAI SDK 的方式调用各大 AI 平台的 Web 端服务。
+Web2API 通过 Playwright 浏览器自动化技术，将 DeepSeek、豆包等 Web 端 AI 平台的响应转换为标准 OpenAI API 格式，支持 OpenAI SDK 直接调用。
 
 ## 功能特性
 
