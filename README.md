@@ -8,8 +8,7 @@ Web2API 通过 Playwright 浏览器自动化技术，将 DeepSeek、豆包等 We
 
 ## 功能特性
 
-- **多平台支持**：支持 DeepSeek、豆包等主流 AI 平台
-- **OpenAI 兼容**：完全兼容 OpenAI Chat Completion API 格式
+- **OpenAI 格式兼容**：完全兼容 OpenAI Chat Completion API 格式
 - **工具调用**：支持 Function Calling / Tool Calling
 - **多轮对话**：支持上下文连续对话
 - **图片输入**：支持 base64 图片自动转为剪贴板粘贴
